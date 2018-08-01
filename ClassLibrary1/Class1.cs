@@ -10,12 +10,12 @@ namespace ClassLibrary1
     {
         public string GetInfofb22gr3334 ()
         {
-            throw new NotImplementedException();
+            return String.Empty;
         }
 
         public string GetInfof222 ()
         {
-            throw new NotImplementedException();
+            return String.Empty;
         }
     }
 }
