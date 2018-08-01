@@ -5,8 +5,6 @@ using System.IO;
 using System.Linq;
 using System.Security.Principal;
 using System.Windows.Media;
-using Hangfire;
-using Hangfire.Storage;
 using NetLib;
 
 namespace ConsoleApplication1
