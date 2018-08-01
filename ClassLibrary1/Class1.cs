@@ -8,7 +8,12 @@ namespace ClassLibrary1
 {
     public class Class121fhfd
     {
-        public string GetInfof2 ()
+        public string GetInfof22 ()
+        {
+            throw new NotImplementedException();
+        }
+
+        public string GetInfof222 ()
         {
             throw new NotImplementedException();
         }
