@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    public class Class121fh
+    public class Class121fhf
     {
         public string GetInfo2 ()
         {
