@@ -10,12 +10,12 @@ namespace ClassLibrary1
     {
         public string GetInfofb22gr3334 ()
         {
-            return String.Empty;
+            return string.Empty;
         }
 
         public string GetInfof222 ()
         {
-            return String.Empty;
+            return string.Empty;
         }
     }
 }
