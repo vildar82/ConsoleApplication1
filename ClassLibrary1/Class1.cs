@@ -10,7 +10,7 @@ namespace ClassLibrary1
     {
         public string GetInfofb22gr3334 ()
         {
-            return "";
+            return "f";
         }
 
         public string GetInfof222 ()
