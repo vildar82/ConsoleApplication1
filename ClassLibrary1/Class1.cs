@@ -8,7 +8,7 @@ namespace ClassLibrary1
 {
     public class Class121fhffd
     {
-        public string GetInfofb22gr3334 ()
+        public string GetInfof4b22gr3334 ()
         {
             return "f";
         }
